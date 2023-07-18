@@ -20,7 +20,7 @@ This information can be used to assess the profitability of an investment or com
 Overall, this exploratory stock market analysis project aims to empower investors, traders, and 
 analysts with a comprehensive set of tools and techniques to extract valuable insights from financial market data. 
 
-# Technologies used;
+# Technologies used are;
 Python , Statistics
 
 # Python Libraries
